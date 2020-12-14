@@ -4,7 +4,7 @@ namespace DaysProgramV2
 {
     class FindDays
     {
-        //Enemeration setup
+        //Enemeration setup, if don't specify the starting value default will be 0
         enum DaysOfTheWeek
         {
             SUNDAY = 1, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
